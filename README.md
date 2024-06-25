@@ -1,2 +1,2 @@
 # feishu2md
-Design an api that helps converting feishu documents into markdown format
+Design an api converting feishu documents into markdown format
